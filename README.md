@@ -1,4 +1,4 @@
-# Resume-Preparation-Calls-Interview
+# Resume-Preparation-Calls-Interview-Offer
 
 ## ✅ Resume Preparation  
 - Craft a clean, ATS-friendly resume with focused sections on skills, projects, and experience.  
